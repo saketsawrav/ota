@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <wt88047>
-            <Filename>RR-N-v5.8.3-20170415-wt88047-OFFICIAL.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170429-wt88047-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/wt88047/N/RR-N-v5.8.3-20170415-wt88047-OFFICIAL.zip</RomUrl>
+                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/wt88047/N/RR-N-v5.8.3-20170429-wt88047-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
